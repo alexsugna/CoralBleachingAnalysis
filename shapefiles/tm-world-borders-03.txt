@@ -1,0 +1,29 @@
+========================================================================
+ TM WORLD BORDERS 0.3
+------------------------------------------------------------------------
+ https://koordinates.com/layer/7354-tm-world-borders-03/
+========================================================================
+From: robic sertani
+
+Description:
+  World Country Boundries
+
+Category: Boundaries & Administration
+
+Projection: WGS 84
+
+------------------------------------------------------------------------
+ Processing steps applied by Koordinates
+------------------------------------------------------------------------
+
+- imported to Koordinates in Shapefile format on 07 Jan 2015
+- 4 invalid geometries fixed at import time 
+    (see https://koordinates.com/layer/7354-tm-world-borders-03/history/)
+- converted by Koordinates to Shapefile on 04 Apr 2021 (reference #2155462)
+
+====================
+No license specified
+====================
+
+No license was specified for this layer. This could mean default rights under copyright law for your legal jurisdiction may apply. Please check with Koordinates if you're unsure of your right to access and use this layer.
+
